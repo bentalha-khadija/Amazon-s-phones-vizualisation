@@ -8,7 +8,7 @@ Ce tableau de bord s'inscrit dans le cadre d'un projet du stage académique sur 
 - Front-end and layouts: Dash-html-compenents , dash-bootstrap-compenents, css
 - Dash for rendering a dash APP 
 ## About 
-Live app is [here](https://amazonphones.herokuapp.com/)
+Live app is here :[https://amazonphones.herokuapp.com/](https://amazonphones.herokuapp.com/)
 ## Dashboard
 
 | Light mode  | Dark mode |
