@@ -7,7 +7,7 @@ Ce tableau de bord s'inscrit dans le cadre d'un projet du stage académique sur 
 - Plotly for ploting graphs and charts
 - Front-end and layouts: Dash-html-compenents , dash-bootstrap-compenents, css
 - Dash for rendering a dash APP 
-## About
+## About 
 Live app is [here](https://amazonphones.herokuapp.com/)
 ## Dashboard
 
