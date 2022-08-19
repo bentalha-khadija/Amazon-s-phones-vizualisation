@@ -1,4 +1,4 @@
-# Amazon-s-phones-vizualisation
+# Amazon's phones vizualisation
 Ce tableau de bord s'inscrit dans le cadre d'un projet du stage académique sur les données des smartphones et téléphones portables débloquése du AMAZON. Ce projet vise à effectuer une analyse exploratoire des prix et des avis des smartphones et téléphones portables débloquése collectés à partir Amazon.com pour découvrir les tendances, les chiffres et la relation entre les différents attributs, afin d'aider le consommateur a prendre une décision d'achat éclairée en toute confiance.
 ## Used tools
 - Data scraping: BeautifulSoup and requests
